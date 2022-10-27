@@ -1,0 +1,88 @@
+
+.Header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: rgb(241, 252, 34);
+  justify-content: space-between;
+}
+
+.HeaderText {
+  display: flex;
+  flex-direction: column;
+  margin-left: 5%;
+  margin-right: 5%;
+  align-items: flex-end;
+}
+
+.Name {
+  font-size: 5em;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-family: sans-serif;
+  color: rgb(34, 226, 252);
+}
+
+.Subheader {
+  font-size: 1.5em;
+}
+
+
+.Body {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.Content {
+  width: 70vw;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  color: black;
+  text-align: center;
+}
+
+.Content p{
+  margin-left: 1rem;
+}
+
+.Content h2{
+  font-size:xx-large;
+  font-weight: 100;
+  margin-top: 2rem;
+  color: orange;
+}
+
+.Content h3{
+  font-weight: 700;
+  color: rgb(255, 0, 0);
+}
+
+body {
+  font-family: serif;
+  background-image: linear-gradient(red, blue, yellow);
+
+}
+
+h4 {
+  color: rgb(251, 156, 231);
+  font-size: medium;
+  font-style: italic;
+}
+
+.Sidebar {
+  width: fit-content;
+  padding-left: 2rem;
+  color: white;
+
+
+}
+.Sidebar h2{
+  color:white;
+  background-color: green;
+  justify-content: center;
+}
+
+.ContactMe, .Sidebar a{
+  color: rgb(255, 255, 0);
+}

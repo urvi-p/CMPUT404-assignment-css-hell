@@ -19,6 +19,19 @@ Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
 repository and (C) 2013 Abram Hindle visibile in the text.
 
+Textual and image content is copyright Urvi Patel (C) 2022 under the CC-BY-SA
+4.0 unported license. Attribution should be a hyperlink to the
+repository and (C) 2022 Urvi Patel visibile in the text.
+
 Code is licensed under the Apache 2.0 license.
 
-
+Modifications
+=============
+In HTML Files:
+- removed the style tags from the html files
+- added "<link rel="stylesheet" href="styles.css" />" to include the css file styles
+In CSS:
+- changed background and text colors
+- changed fonts
+- centered content
+- added borders to images
