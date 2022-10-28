@@ -27,9 +27,10 @@ Code is licensed under the Apache 2.0 license.
 
 Modifications
 =============
-In HTML Files:
+In HTML:
 - removed the style tags from the html files
-- added "<link rel="stylesheet" href="styles.css" />" to include the css file styles
+- added "&lt;link rel="stylesheet" href="styles.css" /&gt;" to include the css file styles
+
 In CSS:
 - changed background and text colors
 - changed fonts
